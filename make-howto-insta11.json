@@ -1,28 +1,28 @@
 {
-    "version": "0.1.0",
-    "homepage": "https://github.com/hymkor/make-howto-install",
+    "version": "0.1.1",
+    "homepage": "https://github.com/hymkor/make-howto-insta11",
     "license": "MIT License",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hymkor/make-howto-install/releases/download/v0.1.0/make-howto-install-v0.1.0-windows-386.zip",
-            "hash": "f5436409aecf67b4f8cbd53a97b1d2a4529488658e94f18dd6ada127c1a4fb00"
+            "url": "https://github.com/hymkor/make-howto-insta11/releases/download/v0.1.1/make-howto-insta11-v0.1.1-windows-386.zip",
+            "hash": "7f9fcf2707a5b27b4b48b83678c9ecc0bc97bc52d1261a4711778715cd845175"
         },
         "64bit": {
-            "url": "https://github.com/hymkor/make-howto-install/releases/download/v0.1.0/make-howto-install-v0.1.0-windows-amd64.zip",
-            "hash": "d9675f6e202a8fce0db18485cb72f20d82c093d3bbf429fdc06c6785e1984f90"
+            "url": "https://github.com/hymkor/make-howto-insta11/releases/download/v0.1.1/make-howto-insta11-v0.1.1-windows-amd64.zip",
+            "hash": "d2417d0736f82c108d5be3e50ff328027ada487e9d787995249efeebb10af2f0"
         }
     },
     "bin": [
-        "make-howto-install.exe"
+        "make-howto-insta11.exe"
     ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://github.com/hymkor/make-howto-install/releases/download/v$version/make-howto-install-v$version-windows-386.zip"
+                "url": "https://github.com/hymkor/make-howto-insta11/releases/download/v$version/make-howto-insta11-v$version-windows-386.zip"
             },
             "64bit": {
-                "url": "https://github.com/hymkor/make-howto-install/releases/download/v$version/make-howto-install-v$version-windows-amd64.zip"
+                "url": "https://github.com/hymkor/make-howto-insta11/releases/download/v$version/make-howto-insta11-v$version-windows-amd64.zip"
             }
         }
     }
