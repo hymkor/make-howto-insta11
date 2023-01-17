@@ -1,3 +1,7 @@
+**Please note:**
+
+This is just a private tool to create a README.md from a template.
+
 make-howto-insta11
 ==================
 
