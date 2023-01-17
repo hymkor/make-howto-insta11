@@ -1,5 +1,6 @@
 {
     "version": "0.1.1",
+    "description": "Output how to install our application with the scoop installer for README.md like this.",
     "homepage": "https://github.com/hymkor/make-howto-insta11",
     "license": "MIT License",
     "architecture": {
