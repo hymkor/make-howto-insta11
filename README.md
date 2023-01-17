@@ -3,6 +3,16 @@ make-howto-insta11
 
 The make-howto-insta11 is the tool to output how to install our application with the scoop installer for README.md like this.
 
+How to use
+----------
+
+```
+cd YOUR-REPOSITORY
+vim README.md
+```
+
+and type `:r!make-howto-insta11` to insert the section `Install` like this.
+
 Install
 -------
 
