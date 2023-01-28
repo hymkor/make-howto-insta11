@@ -11,7 +11,11 @@ import (
 	"strings"
 )
 
-const theTemplate = `Install
+const theTemplate = `[![GoDev](https://pkg.go.dev/badge/github.com/%[2]s/%[3]s)](https://pkg.go.dev/github.com/%[2]s/%[3]s)
+
+-----
+
+Install
 -------
 
 Download the binary package from [Releases](https://github.com/%[2]s/%[3]s/releases) and extract the executable.
