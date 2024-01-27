@@ -1,3 +1,7 @@
+v0.3.0
+======
+Jan 27, 2024
+
 - Fix: the problem when repository name contains `.` (a dot)
 
 v0.2.0
