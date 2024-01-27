@@ -1,3 +1,5 @@
+- Support the repository cloned by https
+
 v0.3.0
 ======
 Jan 27, 2024
